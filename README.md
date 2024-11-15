@@ -1,15 +1,14 @@
-# Projet Recettes 🍽️
+# Recettes 🍽️
 
-Bienvenue dans mon projet de recettes ! Ce projet contient des recettes délicieuses et faciles à préparer. Cliquez sur le nom d'une recette pour y accéder directement.
+Bienvenue ! Ce site contient des recettes délicieuses et faciles à préparer. Cliquez sur le nom d'une recette pour y accéder directement.
 
 ---
 
 ## Index des Recettes
 
-1. [Crème Caramel](./cremeCaramel.md)  
-2. [Tarte au Citron](./tarteAuxCitron.md)  
-3. [Sfouf (Gâteau libanais au curcuma)](./sfouf.md)  
-
+1. [Crème Caramel](./cremeCaramel.md) 🍮  
+2. [Tarte au Citron](./tarteAuxCitron.md) 🥧🍋  
+3. [Sfouf (Gâteau libanais au curcuma)](./sfouf.md) 🍰🟡
 ---
 
 ### À propos
